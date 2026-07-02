@@ -3,3 +3,5 @@
 An end-to-end machine learning project for predicting loan default risk and constructing a profitable lending portfolio using the Lending Club dataset. The project includes data preprocessing, feature engineering, model comparison, hyperparameter tuning with Optuna, and portfolio backtesting to evaluate investment strategies.
 
 > **Inspired by one of the projects from Stanford University's CS229: Machine Learning course.**
+
+The source of data is *https://www.kaggle.com/datasets/wordsforthewise/lending-club.*
